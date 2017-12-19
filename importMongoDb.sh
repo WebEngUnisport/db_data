@@ -8,3 +8,6 @@ mongoimport --db unisport9 --collection universities --drop --jsonArray --file u
 
 sleep 2s
 mongoimport --db unisport9 --collection categories --drop --jsonArray --file category.json
+
+sleep 2s
+mongoimport --db unisport9 --collection courses --drop --jsonArray --file output-bern.json
