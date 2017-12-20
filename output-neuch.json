@@ -1,15 +1,15 @@
 [{
     "Description": "ONLINE*iCours payant / sur inscription.",
-    "Enseignant-e": "Anne-Sophie Papeil",
+    "Instructor": "Anne-Sophie Papeil",
     "Date": "du 26 septembre au 21 d\u00e9cembre 2017",
-    "Horaire": "Mardi : 17h30 \u2013 18h45 d\u00e9butants Mardi : 18h45 \u2013 20h00 avanc\u00e9s Accord de la monitrice requis pour participer. Jeudi : 18h00 \u2013 19h30 boxeurs confirm\u00e9s (sparing)",
-    "Lieu": "Mardi : Mail IV, salle 3 / no. 6 Jeudi : Fight Move Academy, Fbg de la Gare 9, 2000 Neuch\u00e2tel",
-    "Prix": "30.-",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Mardi : 17h30 \u2013 18h45 d\u00e9butants Mardi : 18h45 \u2013 20h00 avanc\u00e9s Accord de la monitrice requis pour participer. Jeudi : 18h00 \u2013 19h30 boxeurs confirm\u00e9s (sparing)",
+    "Place": "Mardi : Mail IV, salle 3 / no. 6 Jeudi : Fight Move Academy, Fbg de la Gare 9, 2000 Neuch\u00e2tel",
+    "Price": "30.-",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "boxe.unine[at]gmail.com",
-    "sport": "Boxe anglaise",
-    "link": "http://www10.unine.ch/sun/discipline/boxe-anglaise/",
-    "dates": [
+    "Sport": "Boxe anglaise",
+    "Link": "http://www10.unine.ch/sun/discipline/boxe-anglaise/",
+    "Dates": [
         {
             "from": "2017-09-26T18:45:00+02:00",
             "to": "2017-09-26T18:45:00+02:00"
@@ -167,27 +167,28 @@
             "to": "2017-12-21T18:00:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
+    "Continuous": false,
+    "Category": {
         "Name": "Mock Category 1",
         "Code": "MOCK1"
     }
 },
 {
     "Description": "Art martial br\u00e9silien, qui allie rythme et danse. Combat et acrobaties.",
-    "Enseignant-e": "Manoel De Oliveira Lopes, Mestre Papa",
+    "Instructor": "Manoel De Oliveira Lopes, Mestre Papa",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Mardi : 12h15 \u2013 13h30",
-    "Lieu": "Centre sportif du Mail, Mail IV, salle 3 / no. 6",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Mardi : 12h15 \u2013 13h30",
+    "Place": "Centre sportif du Mail, Mail IV, salle 3 / no. 6",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "papacapoeira[at]yahoo.com",
-    "sport": "Capoeira",
-    "link": "http://www10.unine.ch/sun/discipline/capoeira/",
-    "dates": [
+    "Sport": "Capoeira",
+    "Link": "http://www10.unine.ch/sun/discipline/capoeira/",
+    "Dates": [
         {
             "from": "2017-09-19T13:30:00+02:00",
             "to": "2017-09-19T13:30:00+02:00"
@@ -245,27 +246,28 @@
             "to": "2017-12-19T12:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 3",
-        "Code": "MOCK3"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 2",
+        "Code": "MOCK2"
     }
 },
 {
     "Description": "Cours payant / sur inscription. ONLINE*i",
-    "Enseignant-e": "Chris Umana",
+    "Instructor": "Chris Umana",
     "Date": "du 28 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Jeudi: 18h30-19h30 Vendredi: 18h30-19h30",
-    "Lieu": "Mail IV, salle 3, no.6 (m\u00eame salle jeudi et vendredi)",
-    "Prix": "CHF 30.\u2013 / semestre",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Jeudi: 18h30-19h30 Vendredi: 18h30-19h30",
+    "Place": "Mail IV, salle 3, no.6 (m\u00eame salle jeudi et vendredi)",
+    "Price": "CHF 30.\u2013 / semestre",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "chris.umana25[at]gmail.com",
-    "sport": "Cross-Uni",
-    "link": "http://www10.unine.ch/sun/discipline/cross-training/",
-    "dates": [
+    "Sport": "Cross-Uni",
+    "Link": "http://www10.unine.ch/sun/discipline/cross-training/",
+    "Dates": [
         {
             "from": "2017-09-28T19:30:00+02:00",
             "to": "2017-09-28T19:30:00+02:00"
@@ -371,48 +373,50 @@
             "to": "2017-12-22T18:30:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 1",
-        "Code": "MOCK1"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 2",
+        "Code": "MOCK2"
     }
 },
 {
     "Description": "Cours payant / sur inscription.ONLINE*i",
-    "Enseignant-e": "Claude-Alain Vuille",
+    "Instructor": "Claude-Alain Vuille",
     "Date": "du 29 septembre au 9 f\u00e9vrier (pas de cours les )",
-    "Horaire": "Vendredi : 12h00 \u2013 13h30",
-    "Lieu": "Halle de curling des patinoires du Littoral",
-    "Prix": "CHF 20.\u2013 / semestre",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Vendredi : 12h00 \u2013 13h30",
+    "Place": "Halle de curling des patinoires du Littoral",
+    "Price": "CHF 20.\u2013 / semestre",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "claude-alain.vuille[at]bluewin.ch",
-    "sport": "Curling",
-    "link": "http://www10.unine.ch/sun/discipline/curling/",
-    "dates": [],
-    "university": {
+    "Sport": "Curling",
+    "Link": "http://www10.unine.ch/sun/discipline/curling/",
+    "Dates": [],
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 1",
-        "Code": "MOCK1"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 2",
+        "Code": "MOCK2"
     }
 },
 {
     "Description": "Technique de base, qualit\u00e9 du mouvement, coordination, \u00e9quilibre, force, souplesse, sens du rythme.",
-    "Enseignant-e": "Isabelle Richard",
+    "Instructor": "Isabelle Richard",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Mardi : 12h10 \u2013 13h40",
-    "Lieu": "Mail IV, salle de judo / no. 6",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Mardi : 12h10 \u2013 13h40",
+    "Place": "Mail IV, salle de judo / no. 6",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "isabelle-richard[at]bluewin.ch",
-    "sport": "Danse contemporaine",
-    "link": "http://www10.unine.ch/sun/discipline/danse-contemporaine/",
-    "dates": [
+    "Sport": "Danse contemporaine",
+    "Link": "http://www10.unine.ch/sun/discipline/danse-contemporaine/",
+    "Dates": [
         {
             "from": "2017-09-19T13:40:00+02:00",
             "to": "2017-09-19T13:40:00+02:00"
@@ -470,27 +474,28 @@
             "to": "2017-12-19T12:10:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 2",
-        "Code": "MOCK2"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 3",
+        "Code": "MOCK3"
     }
 },
 {
     "Description": ".",
-    "Enseignant-e": "Santiago Morales",
+    "Instructor": "Santiago Morales",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Mercredi : 12h15 \u2013 13h30",
-    "Lieu": "Mail IV, salle de judo / no. 6",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Mercredi : 12h15 \u2013 13h30",
+    "Place": "Mail IV, salle de judo / no. 6",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "santiago.morales[at]unine.ch",
-    "sport": "Danse salsa, merengue, cumbia",
-    "link": "http://www10.unine.ch/sun/discipline/danse-salsa-merengue-cumbia/",
-    "dates": [
+    "Sport": "Danse salsa, merengue, cumbia",
+    "Link": "http://www10.unine.ch/sun/discipline/danse-salsa-merengue-cumbia/",
+    "Dates": [
         {
             "from": "2017-09-20T13:30:00+02:00",
             "to": "2017-09-20T13:30:00+02:00"
@@ -548,27 +553,28 @@
             "to": "2017-12-20T12:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
+    "Continuous": false,
+    "Category": {
         "Name": "Mock Category 3",
         "Code": "MOCK3"
     }
 },
 {
     "Description": " Escrime moderne et ancienne (escrime artistique). Mat\u00e9riel pr\u00eat\u00e9. Entra\u00eenement en training et chaussures de sports.",
-    "Enseignant-e": "Thibaut Longhais",
+    "Instructor": "Thibaut Longhais",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Mardi : 12h15 \u2013 13h30 Mercredi : 12h15 \u2013 13h30",
-    "Lieu": "Salle d\u2019escrime / no. 10",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Mardi : 12h15 \u2013 13h30 Mercredi : 12h15 \u2013 13h30",
+    "Place": "Salle d\u2019escrime / no. 10",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "thib.longhais[at]gmail.com",
-    "sport": "Escrime",
-    "link": "http://www10.unine.ch/sun/discipline/escrime/",
-    "dates": [
+    "Sport": "Escrime",
+    "Link": "http://www10.unine.ch/sun/discipline/escrime/",
+    "Dates": [
         {
             "from": "2017-09-19T13:30:00+02:00",
             "to": "2017-09-19T13:30:00+02:00"
@@ -682,26 +688,27 @@
             "to": "2017-12-20T12:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
+    "Continuous": false,
+    "Category": {
         "Name": "Mock Category 1",
         "Code": "MOCK1"
     }
 },
 {
     "Description": "Cours du mercredi sur inscription.  ",
-    "Enseignant-e": "Elisabeth Herzig",
+    "Instructor": "Elisabeth Herzig",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Mardi : 19h00-19h45 Mercredi : 19h00-19h45 (sur inscription) Jeudi : 18h15-19h00",
-    "Lieu": "Mail IV, Piscine / no. 6",
-    "Prix": "Gratuit, cours du mercredi sur inscription.",
+    "Times": "Mardi : 19h00-19h45 Mercredi : 19h00-19h45 (sur inscription) Jeudi : 18h15-19h00",
+    "Place": "Mail IV, Piscine / no. 6",
+    "Price": "Gratuit, cours du mercredi sur inscription.",
     "Contact": "e.herzig[at]net2000.ch",
-    "sport": "Fitness aquatique",
-    "link": "http://www10.unine.ch/sun/discipline/fitness-aquatique/",
-    "dates": [
+    "Sport": "Fitness aquatique",
+    "Link": "http://www10.unine.ch/sun/discipline/fitness-aquatique/",
+    "Dates": [
         {
             "from": "2017-09-19T19:45:00+02:00",
             "to": "2017-09-19T19:45:00+02:00"
@@ -871,27 +878,28 @@
             "to": "2017-12-21T18:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 3",
-        "Code": "MOCK3"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 2",
+        "Code": "MOCK2"
     }
 },
 {
     "Description": "Jeu libre, matchs",
-    "Enseignant-e": "Bruno Avolio (mardi) Codrin Ceausoglu (mercredi)",
+    "Instructor": "Bruno Avolio (mardi) Codrin Ceausoglu (mercredi)",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Mardi : 12h15 \u2013 13h30 Mercredi : 12h \u2013 13h30",
-    "Lieu": "Mail IV, salles 1 et 2 (mardi) Maladi\u00e8re 4 et 5 (mercredi) Cliquez sur les puces pour avoir des infos suppl\u00e9mentaires ",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition: Ballons ",
+    "Times": "Mardi : 12h15 \u2013 13h30 Mercredi : 12h \u2013 13h30",
+    "Place": "Mail IV, salles 1 et 2 (mardi) Maladi\u00e8re 4 et 5 (mercredi) Cliquez sur les puces pour avoir des infos suppl\u00e9mentaires ",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition: Ballons ",
     "Contact": "bruno.avolio[at]rpn.ch codrin44[at]gmail.com",
-    "sport": "Football en salle",
-    "link": "http://www10.unine.ch/sun/discipline/football-en-salle/",
-    "dates": [
+    "Sport": "Football en salle",
+    "Link": "http://www10.unine.ch/sun/discipline/football-en-salle/",
+    "Dates": [
         {
             "from": "2017-09-19T13:30:00+02:00",
             "to": "2017-09-19T13:30:00+02:00"
@@ -1005,27 +1013,28 @@
             "to": "2017-12-20T12:00:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 1",
-        "Code": "MOCK1"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 2",
+        "Code": "MOCK2"
     }
 },
 {
     "Description": "Pr\u00e9vention, renforcement, r\u00e9\u00e9quilibrage.",
-    "Enseignant-e": "Yves L\u2019Eplattenier (mardi) Bertrand Robert (lundi)",
+    "Instructor": "Yves L\u2019Eplattenier (mardi) Bertrand Robert (lundi)",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Lundi : 17h15-18h15 Mardi : 17h00-18h00",
-    "Lieu": "Salle de tennis de table de la Maladi\u00e8re / no. 9",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Lundi : 17h15-18h15 Mardi : 17h00-18h00",
+    "Place": "Salle de tennis de table de la Maladi\u00e8re / no. 9",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "yves.leplattenier[at]unine.ch",
-    "sport": "Gymnastique du dos",
-    "link": "http://www10.unine.ch/sun/discipline/gymnastique-du-dos/",
-    "dates": [
+    "Sport": "Gymnastique du dos",
+    "Link": "http://www10.unine.ch/sun/discipline/gymnastique-du-dos/",
+    "Dates": [
         {
             "from": "2017-09-25T18:15:00+02:00",
             "to": "2017-09-25T18:15:00+02:00"
@@ -1135,27 +1144,28 @@
             "to": "2017-12-19T17:00:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 3",
-        "Code": "MOCK3"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 1",
+        "Code": "MOCK1"
     }
 },
 {
     "Description": "Danse qui puise ses racines dans le rap et le break dancing.",
-    "Enseignant-e": "Maxime Jeannerat",
+    "Instructor": "Maxime Jeannerat",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Lundi : 18h15-19h15 (Tivoli 11)",
-    "Lieu": "Lundi : Giant Fabrik11 / no. 12",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Lundi : 18h15-19h15 (Tivoli 11)",
+    "Place": "Lundi : Giant Fabrik11 / no. 12",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "ada[at]giantstudio.ch",
-    "sport": "Hip-hop Basic",
-    "link": "http://www10.unine.ch/sun/discipline/hip-hop/",
-    "dates": [
+    "Sport": "Hip-hop Basic",
+    "Link": "http://www10.unine.ch/sun/discipline/hip-hop/",
+    "Dates": [
         {
             "from": "2017-09-25T19:15:00+02:00",
             "to": "2017-09-25T19:15:00+02:00"
@@ -1209,48 +1219,50 @@
             "to": "2017-12-18T18:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 3",
-        "Code": "MOCK3"
-    }
-},
-{
-    "Description": "Jeu libre et matches. Mat\u00e9riel \u00e0 disposition. Les patins sont \u00e0 retirer \u00e0 la caisse avant 12h15.",
-    "Enseignant-e": "Rodolphe Saint-Louis",
-    "Date": "du 2 novembre au 22 f\u00e9vrier",
-    "Horaire": "Jeudi: 12h15 \u2013 13h30",
-    "Lieu": "Patinoire / no. 2",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition: Cannes et casques. Gants, coudi\u00e8res, jambi\u00e8res et cuissettes en quantit\u00e9 limit\u00e9e !",
-    "Contact": "rodolphe.saint-louis[at]bfs.admin.ch",
-    "sport": "Hockey sur glace",
-    "link": "http://www10.unine.ch/sun/discipline/hockey-sur-glace/",
-    "dates": [],
-    "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
-    },
-    "category": {
+    "Continuous": false,
+    "Category": {
         "Name": "Mock Category 1",
         "Code": "MOCK1"
     }
 },
 {
+    "Description": "Jeu libre et matches. Mat\u00e9riel \u00e0 disposition. Les patins sont \u00e0 retirer \u00e0 la caisse avant 12h15.",
+    "Instructor": "Rodolphe Saint-Louis",
+    "Date": "du 2 novembre au 22 f\u00e9vrier",
+    "Times": "Jeudi: 12h15 \u2013 13h30",
+    "Place": "Patinoire / no. 2",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition: Cannes et casques. Gants, coudi\u00e8res, jambi\u00e8res et cuissettes en quantit\u00e9 limit\u00e9e !",
+    "Contact": "rodolphe.saint-louis[at]bfs.admin.ch",
+    "Sport": "Hockey sur glace",
+    "Link": "http://www10.unine.ch/sun/discipline/hockey-sur-glace/",
+    "Dates": [],
+    "University": {
+        "Name": "Neuch\u00e2tel",
+        "Code": "NE"
+    },
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 2",
+        "Code": "MOCK2"
+    }
+},
+{
     "Description": "Cours payant / sur inscription. ONLINE*i",
-    "Enseignant-e": "Vincent Haag (Mardi) Yves P\u00e9tremand (Mercredi)",
+    "Instructor": "Vincent Haag (Mardi) Yves P\u00e9tremand (Mercredi)",
     "Date": "du 26 septembre au 20 d\u00e9cembre 2017",
-    "Horaire": "Mardi : 18h00 \u2013 19h00 Mercredi : 12h15 \u2013 13h15",
-    "Lieu": "Patinoire, centre de fitness / no. 2",
-    "Prix": "CHF 30.\u2013 / semestre",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Mardi : 18h00 \u2013 19h00 Mercredi : 12h15 \u2013 13h15",
+    "Place": "Patinoire, centre de fitness / no. 2",
+    "Price": "CHF 30.\u2013 / semestre",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "yves.petremand[at]unine.ch vhaag[at]bluewin.ch",
-    "sport": "Indoor cycling",
-    "link": "http://www10.unine.ch/sun/discipline/indoor-cycling/",
-    "dates": [
+    "Sport": "Indoor cycling",
+    "Link": "http://www10.unine.ch/sun/discipline/indoor-cycling/",
+    "Dates": [
         {
             "from": "2017-09-26T19:00:00+02:00",
             "to": "2017-09-26T19:00:00+02:00"
@@ -1356,27 +1368,28 @@
             "to": "2017-12-20T12:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
+    "Continuous": false,
+    "Category": {
         "Name": "Mock Category 3",
         "Code": "MOCK3"
     }
 },
 {
     "Description": "Initiation aux arts du cirque.",
-    "Enseignant-e": "Charlotte Agustoni",
+    "Instructor": "Charlotte Agustoni",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Jeudi : 17h15-18h30",
-    "Lieu": "Mail IV, salle 1 / no. 6",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition: ",
+    "Times": "Jeudi : 17h15-18h30",
+    "Place": "Mail IV, salle 1 / no. 6",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition: ",
     "Contact": "charlotte.agustoni[at]unine.ch",
-    "sport": "Initiation au cirque",
-    "link": "http://www10.unine.ch/sun/discipline/initiation-cirque-nouveau/",
-    "dates": [
+    "Sport": "Initiation au cirque",
+    "Link": "http://www10.unine.ch/sun/discipline/initiation-cirque-nouveau/",
+    "Dates": [
         {
             "from": "2017-09-21T18:30:00+02:00",
             "to": "2017-09-21T18:30:00+02:00"
@@ -1434,27 +1447,28 @@
             "to": "2017-12-21T17:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 2",
-        "Code": "MOCK2"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 1",
+        "Code": "MOCK1"
     }
 },
 {
     "Description": "Arme japonaise. Art du b\u00e2ton (1m28). Traditions martiales classiques des XVIe et XVIIIe si\u00e8cles. Ma\u00eetrise de soi et pr\u00e9cision.",
-    "Enseignant-e": "Loris Petris 6e Dan",
+    "Instructor": "Loris Petris 6e Dan",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Jeudi : 19h15-20h30",
-    "Lieu": "Mail IV, salle de judo / no. 6",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Jeudi : 19h15-20h30",
+    "Place": "Mail IV, salle de judo / no. 6",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "loris.petris[at]unine.ch",
-    "sport": "Jodo",
-    "link": "http://www10.unine.ch/sun/discipline/jodo-2/",
-    "dates": [
+    "Sport": "Jodo",
+    "Link": "http://www10.unine.ch/sun/discipline/jodo-2/",
+    "Dates": [
         {
             "from": "2017-09-21T20:30:00+02:00",
             "to": "2017-09-21T20:30:00+02:00"
@@ -1512,27 +1526,28 @@
             "to": "2017-12-21T19:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
+    "Continuous": false,
+    "Category": {
         "Name": "Mock Category 3",
         "Code": "MOCK3"
     }
 },
 {
     "Description": "Le karat\u00e9 permet une am\u00e9lioration de la condition physique et de la souplesse. Auto-d\u00e9fense simple et efficace.",
-    "Enseignant-e": "Franco Pisino",
+    "Instructor": "Franco Pisino",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Lundi : 19h-20h15",
-    "Lieu": "Giant Fabrik11, Rue Tivoli 11 / no. 23",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Lundi : 19h-20h15",
+    "Place": "Giant Fabrik11, Rue Tivoli 11 / no. 23",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "francopisino[at]gmail.com",
-    "sport": "Karat\u00e9",
-    "link": "http://www10.unine.ch/sun/discipline/karate/",
-    "dates": [
+    "Sport": "Karat\u00e9",
+    "Link": "http://www10.unine.ch/sun/discipline/karate/",
+    "Dates": [
         {
             "from": "2017-09-25T20:15:00+02:00",
             "to": "2017-09-25T20:15:00+02:00"
@@ -1586,27 +1601,28 @@
             "to": "2017-12-18T19:00:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 1",
-        "Code": "MOCK1"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 2",
+        "Code": "MOCK2"
     }
 },
 {
     "Description": "Arme japonaise.  Art du sabre japonais. Traditions martiales classiques des XVIe et XVIIIe si\u00e8cles. Ma\u00eetrise de soi et pr\u00e9cision.",
-    "Enseignant-e": "Loris Petris 6e Dan",
+    "Instructor": "Loris Petris 6e Dan",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Mardi : 18h15 \u2013 19h30 Jeudi : 18h00 \u2013 19h15",
-    "Lieu": "Mail IV, salle de judo / no. 6",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Mardi : 18h15 \u2013 19h30 Jeudi : 18h00 \u2013 19h15",
+    "Place": "Mail IV, salle de judo / no. 6",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "loris.petris[at]unine.ch",
-    "sport": "Kobudo",
-    "link": "http://www10.unine.ch/sun/discipline/kobudo/",
-    "dates": [
+    "Sport": "Kobudo",
+    "Link": "http://www10.unine.ch/sun/discipline/kobudo/",
+    "Dates": [
         {
             "from": "2017-09-19T19:30:00+02:00",
             "to": "2017-09-19T19:30:00+02:00"
@@ -1720,27 +1736,28 @@
             "to": "2017-12-21T18:00:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 2",
-        "Code": "MOCK2"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 1",
+        "Code": "MOCK1"
     }
 },
 {
     "Description": "La natation reste un des meilleurs moyens pour garder une bonne condition physique. Les s\u00e9ances s\u2019adressent aux d\u00e9butants (non-nageurs), moyens et avanc\u00e9s. Natation libre ou cours.",
-    "Enseignant-e": "Sarah Semeraro (lundi) Alessandro Boverat (mardi et jeudi) Sarah Semeraro (lundi) Coraline Zulliger (mercredi)",
+    "Instructor": "Sarah Semeraro (lundi) Alessandro Boverat (mardi et jeudi) Sarah Semeraro (lundi) Coraline Zulliger (mercredi)",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Lundi : 17h15-18h30 Mardi : 18h15-19h00 Mercredi : 12h15-13h30 Jeudi : 17h15-18h10",
-    "Lieu": "Mail IV, Piscine / no. 6",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Lundi : 17h15-18h30 Mardi : 18h15-19h00 Mercredi : 12h15-13h30 Jeudi : 17h15-18h10",
+    "Place": "Mail IV, Piscine / no. 6",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "allbov[at]sunrise.ch nils.favre[at]unine.ch sarah.semeraro[at]unine.ch",
-    "sport": "Natation",
-    "link": "http://www10.unine.ch/sun/discipline/natation/",
-    "dates": [
+    "Sport": "Natation",
+    "Link": "http://www10.unine.ch/sun/discipline/natation/",
+    "Dates": [
         {
             "from": "2017-09-25T18:30:00+02:00",
             "to": "2017-09-25T18:30:00+02:00"
@@ -1962,27 +1979,28 @@
             "to": "2017-12-21T17:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 2",
-        "Code": "MOCK2"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 1",
+        "Code": "MOCK1"
     }
 },
 {
     "Description": "Cours payant / sur inscription. ONLINE*i",
-    "Enseignant-e": "Jessica Constantin (mercredi) Diane Fankhauser (lundi)",
+    "Instructor": "Jessica Constantin (mercredi) Diane Fankhauser (lundi)",
     "Date": "du 25 septembre au 20 d\u00e9cembre 2017",
-    "Horaire": "Lundi : 17h-18h niveau interm.-avanc\u00e9 Mercredi : 17h-18h niveau d\u00e9butant",
-    "Lieu": "Rue des Fahys 123, chez Acropole Fitness",
-    "Prix": "CHF 30.\u2013",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Lundi : 17h-18h niveau interm.-avanc\u00e9 Mercredi : 17h-18h niveau d\u00e9butant",
+    "Place": "Rue des Fahys 123, chez Acropole Fitness",
+    "Price": "CHF 30.\u2013",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "contact.acropolefitness[at]gmail.com",
-    "sport": "Pole fitness",
-    "link": "http://www10.unine.ch/sun/discipline/pole-fitness/",
-    "dates": [
+    "Sport": "Pole fitness",
+    "Link": "http://www10.unine.ch/sun/discipline/pole-fitness/",
+    "Dates": [
         {
             "from": "2017-09-25T18:00:00+02:00",
             "to": "2017-09-25T18:00:00+02:00"
@@ -2088,27 +2106,28 @@
             "to": "2017-12-20T17:00:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
+    "Continuous": false,
+    "Category": {
         "Name": "Mock Category 1",
         "Code": "MOCK1"
     }
 },
 {
     "Description": "",
-    "Enseignant-e": "Fiona Prestipino",
+    "Instructor": "Fiona Prestipino",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Mardi: 20h15-21h30",
-    "Lieu": "Giant Fabrik11, rue Tivoli 11 / no. 23",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Mardi: 20h15-21h30",
+    "Place": "Giant Fabrik11, rue Tivoli 11 / no. 23",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "ada[at]giantstudio.ch",
-    "sport": "Pump",
-    "link": "http://www10.unine.ch/sun/discipline/pump/",
-    "dates": [
+    "Sport": "Pump",
+    "Link": "http://www10.unine.ch/sun/discipline/pump/",
+    "Dates": [
         {
             "from": "2017-09-19T21:30:00+02:00",
             "to": "2017-09-19T21:30:00+02:00"
@@ -2166,27 +2185,28 @@
             "to": "2017-12-19T20:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 2",
-        "Code": "MOCK2"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 3",
+        "Code": "MOCK3"
     }
 },
 {
     "Description": "L\u2019effort vous effraie un peu, vous n\u2019osez pas ? Ce cours vous est destin\u00e9 si vous voulez reprendre une activit\u00e9 physique de base : travail cardio-vasculaire, tonification, souplesse, le tout en musique !",
-    "Enseignant-e": "Rapha\u00ebl Germann",
+    "Instructor": "Rapha\u00ebl Germann",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Vendredi : 12h15 \u2013 13h15",
-    "Lieu": "Mail IV, salle 3 / no. 6",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Vendredi : 12h15 \u2013 13h15",
+    "Place": "Mail IV, salle 3 / no. 6",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "raphael.germann[at]unine.ch",
-    "sport": "Remise en forme",
-    "link": "http://www10.unine.ch/sun/discipline/remise-en-forme/",
-    "dates": [
+    "Sport": "Remise en forme",
+    "Link": "http://www10.unine.ch/sun/discipline/remise-en-forme/",
+    "Dates": [
         {
             "from": "2017-09-22T13:15:00+02:00",
             "to": "2017-09-22T13:15:00+02:00"
@@ -2244,27 +2264,28 @@
             "to": "2017-12-22T12:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 1",
-        "Code": "MOCK1"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 2",
+        "Code": "MOCK2"
     }
 },
 {
     "Description": "Apprendre \u00e0 courir, am\u00e9liorer sa technique. Tous niveaux.",
-    "Enseignant-e": "David Gadler",
+    "Instructor": "David Gadler",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Mardi : 17h30-18h30",
-    "Lieu": "Rendez-vous au fitness de la patinoire, no. 2",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Mardi : 17h30-18h30",
+    "Place": "Rendez-vous au fitness de la patinoire, no. 2",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "davidgadler[at]hotmail.com",
-    "sport": "Running",
-    "link": "http://www10.unine.ch/sun/discipline/running/",
-    "dates": [
+    "Sport": "Running",
+    "Link": "http://www10.unine.ch/sun/discipline/running/",
+    "Dates": [
         {
             "from": "2017-09-19T18:30:00+02:00",
             "to": "2017-09-19T18:30:00+02:00"
@@ -2322,27 +2343,28 @@
             "to": "2017-12-19T17:30:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 2",
-        "Code": "MOCK2"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 3",
+        "Code": "MOCK3"
     }
 },
 {
     "Description": "Cours payant / sur inscription.ONLINE*i Exercises de posture encha\u00een\u00e9s, renforcement, \u00e9quilibre, \u00e9tirements.",
-    "Enseignant-e": "Natacha Amara",
+    "Instructor": "Natacha Amara",
     "Date": "du 28 septembre au 21 d\u00e9cembre 2017",
-    "Horaire": "Jeudi : 17h30-18h45 Jeudi : 18h45-20h00",
-    "Lieu": "Salle de tennis de table de la Maladi\u00e8re / no. 9",
-    "Prix": "CHF 40.\u2013 / semestre",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Jeudi : 17h30-18h45 Jeudi : 18h45-20h00",
+    "Place": "Salle de tennis de table de la Maladi\u00e8re / no. 9",
+    "Price": "CHF 40.\u2013 / semestre",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "naty.coach[at]gmail.com",
-    "sport": "S.A.F.E. (pilates)",
-    "link": "http://www10.unine.ch/sun/discipline/s-a-f-e-pilates/",
-    "dates": [
+    "Sport": "S.A.F.E. (pilates)",
+    "Link": "http://www10.unine.ch/sun/discipline/s-a-f-e-pilates/",
+    "Dates": [
         {
             "from": "2017-09-28T18:45:00+02:00",
             "to": "2017-09-28T18:45:00+02:00"
@@ -2448,27 +2470,28 @@
             "to": "2017-12-21T18:45:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 2",
-        "Code": "MOCK2"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 3",
+        "Code": "MOCK3"
     }
 },
 {
     "Description": "Cours payant / sur inscription. ONLINE*i Le Krav Maga est une m\u00e9thode de self-d\u00e9fense efficace, rapide et facile d\u2019apprentissage. Elle ne n\u00e9cessite aucune condition physique particuli\u00e8re. Pour toutes et tous.",
-    "Enseignant-e": "Radovan Savic",
+    "Instructor": "Radovan Savic",
     "Date": "du 26 septembre au 20 d\u00e9cembre 2017",
-    "Horaire": "Mardi : 17h15 \u2013 18h15 / niveau d\u00e9butants Mercredi : 17h15 \u2013 18h15 niveau avanc\u00e9s",
-    "Lieu": "Mardi et Mercredi: Mail IV, salle de judo / no. 6 Cliquez sur les puces pour avoir des infos suppl\u00e9mentaires ",
-    "Prix": "CHF 20.\u2013 / semestre",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Mardi : 17h15 \u2013 18h15 / niveau d\u00e9butants Mercredi : 17h15 \u2013 18h15 niveau avanc\u00e9s",
+    "Place": "Mardi et Mercredi: Mail IV, salle de judo / no. 6 Cliquez sur les puces pour avoir des infos suppl\u00e9mentaires ",
+    "Price": "CHF 20.\u2013 / semestre",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "info[at]kravmaga-neuchatel.ch",
-    "sport": "Self-d\u00e9fense",
-    "link": "http://www10.unine.ch/sun/discipline/self-defense/",
-    "dates": [
+    "Sport": "Self-d\u00e9fense",
+    "Link": "http://www10.unine.ch/sun/discipline/self-defense/",
+    "Dates": [
         {
             "from": "2017-09-26T18:15:00+02:00",
             "to": "2017-09-26T18:15:00+02:00"
@@ -2574,27 +2597,28 @@
             "to": "2017-12-20T17:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
+    "Continuous": false,
+    "Category": {
         "Name": "Mock Category 2",
         "Code": "MOCK2"
     }
 },
 {
     "Description": "Technique aidant \u00e0 la recherche du \u00ab BIEN \u00caTRE \u00bb",
-    "Enseignant-e": "Santiago Morales",
+    "Instructor": "Santiago Morales",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Mardi: 18h15 \u2013 19h45",
-    "Lieu": "Salle A017, rez-de-chauss\u00e9e Facult\u00e9 des sciences / no. 8",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Mardi: 18h15 \u2013 19h45",
+    "Place": "Salle A017, rez-de-chauss\u00e9e Facult\u00e9 des sciences / no. 8",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "santiago.morales[at]unine.ch",
-    "sport": "Sophrologie cayc\u00e9dienne",
-    "link": "http://www10.unine.ch/sun/discipline/sophrologie-caycedienne/",
-    "dates": [
+    "Sport": "Sophrologie cayc\u00e9dienne",
+    "Link": "http://www10.unine.ch/sun/discipline/sophrologie-caycedienne/",
+    "Dates": [
         {
             "from": "2017-09-19T19:45:00+02:00",
             "to": "2017-09-19T19:45:00+02:00"
@@ -2652,27 +2676,28 @@
             "to": "2017-12-19T18:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 1",
-        "Code": "MOCK1"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 2",
+        "Code": "MOCK2"
     }
 },
 {
     "Description": "Cours payant / sur inscription. ONLINE*i",
-    "Enseignant-e": "Karin Vaucher",
+    "Instructor": "Karin Vaucher",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Lundi : 18h30 \u2013 19h30",
-    "Lieu": "Lundi : Mail IV, salle de judo / no. 6",
-    "Prix": "CHF 30.\u2013 / semestre",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Lundi : 18h30 \u2013 19h30",
+    "Place": "Lundi : Mail IV, salle de judo / no. 6",
+    "Price": "CHF 30.\u2013 / semestre",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "ada[at]giantstudio.ch",
-    "sport": "Step",
-    "link": "http://www10.unine.ch/sun/discipline/step/",
-    "dates": [
+    "Sport": "Step",
+    "Link": "http://www10.unine.ch/sun/discipline/step/",
+    "Dates": [
         {
             "from": "2017-09-25T19:30:00+02:00",
             "to": "2017-09-25T19:30:00+02:00"
@@ -2726,27 +2751,28 @@
             "to": "2017-12-18T18:30:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 1",
-        "Code": "MOCK1"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 2",
+        "Code": "MOCK2"
     }
 },
 {
     "Description": "Le tango est la danse de couple par excellence. Elle se caract\u00e9rise par une relation tr\u00e8s profonde pendant quelques instants entre les deux danseurs.",
-    "Enseignant-e": "Roberto Bernardo",
+    "Instructor": "Roberto Bernardo",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Mercredi : 20h00-21h00, d\u00e9butants Mercredi : 21h00-22h00, avanc\u00e9s",
-    "Lieu": "Les 2 cours au Mail IV, salle de judo / no. 6",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Mercredi : 20h00-21h00, d\u00e9butants Mercredi : 21h00-22h00, avanc\u00e9s",
+    "Place": "Les 2 cours au Mail IV, salle de judo / no. 6",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "tangoceleste1[at]gmail.com",
-    "sport": "Tango",
-    "link": "http://www10.unine.ch/sun/discipline/tango/",
-    "dates": [
+    "Sport": "Tango",
+    "Link": "http://www10.unine.ch/sun/discipline/tango/",
+    "Dates": [
         {
             "from": "2017-09-20T21:00:00+02:00",
             "to": "2017-09-20T21:00:00+02:00"
@@ -2860,27 +2886,28 @@
             "to": "2017-12-20T21:00:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 1",
-        "Code": "MOCK1"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 3",
+        "Code": "MOCK3"
     }
 },
 {
     "Description": "Sport d\u2019\u00e9quipe dynamique bas\u00e9 sur le fair-play. Jeu de balle, sans agressivit\u00e9 o\u00f9 vous trouverez imm\u00e9diatement du plaisir.",
-    "Enseignant-e": "Yan Weber",
+    "Instructor": "Yan Weber",
     "Date": "du 25 septembre au 18 d\u00e9cembre",
-    "Horaire": "Lundi : 20h00 \u2013 22h00",
-    "Lieu": "Salle de la Maladi\u00e8re M1 / no. 9",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Lundi : 20h00 \u2013 22h00",
+    "Place": "Salle de la Maladi\u00e8re M1 / no. 9",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "yann2517[at]gmail.com",
-    "sport": "Tchoukball",
-    "link": "http://www10.unine.ch/sun/discipline/tchoukball/",
-    "dates": [
+    "Sport": "Tchoukball",
+    "Link": "http://www10.unine.ch/sun/discipline/tchoukball/",
+    "Dates": [
         {
             "from": "2017-09-25T22:00:00+02:00",
             "to": "2017-09-25T22:00:00+02:00"
@@ -2934,27 +2961,28 @@
             "to": "2017-12-18T20:00:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
+    "Continuous": false,
+    "Category": {
         "Name": "Mock Category 2",
         "Code": "MOCK2"
     }
 },
 {
     "Description": "Cours payant / sur inscription. ONLINE*i. ATTENTION: participation \u00e0 un seul cours autoris\u00e9e. En cas de non participation \u00e0 trois s\u00e9ances cons\u00e9cutives, la place est automatiquement r\u00e9attribu\u00e9e.",
-    "Enseignant-e": "Rapha\u00ebl Germann Thibaut Duret Guillaume Garnier Chris Beretta Olivier Schl\u00fcter",
+    "Instructor": "Rapha\u00ebl Germann Thibaut Duret Guillaume Garnier Chris Beretta Olivier Schl\u00fcter",
     "Date": "du 25 septembre au 22 d\u00e9cembre 2017 ",
-    "Horaire": "D\u00e9butants + d\u00e9butants avanc\u00e9s : Lundi : 13h00 \u2013 14h00, Tennis club du Mail (Garnier / Duret) Mardi : 13h00 \u2013 14h00, Tennis club des Cadolles (Schl\u00fcter) Vendredi : 12h15 \u2013 13h00, Tennis club du Mail (Garnier/Duret) Vendredi 13h00 \u2013 14h00, Tennis club du Mail (Garnier/Duret) Vendredi 12h00 \u2013 13h00, Tennis club des Cadolles",
-    "Lieu": "Tennis club du Mail / no. 7 Tennis club des Cadolles / no. 26",
-    "Prix": "CHF 40.\u2013",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition: raquettes et balles. ",
+    "Times": "D\u00e9butants + d\u00e9butants avanc\u00e9s : Lundi : 13h00 \u2013 14h00, Tennis club du Mail (Garnier / Duret) Mardi : 13h00 \u2013 14h00, Tennis club des Cadolles (Schl\u00fcter) Vendredi : 12h15 \u2013 13h00, Tennis club du Mail (Garnier/Duret) Vendredi 13h00 \u2013 14h00, Tennis club du Mail (Garnier/Duret) Vendredi 12h00 \u2013 13h00, Tennis club des Cadolles",
+    "Place": "Tennis club du Mail / no. 7 Tennis club des Cadolles / no. 26",
+    "Price": "CHF 40.\u2013",
+    "Material": "Mat\u00e9riel \u00e0 disposition: raquettes et balles. ",
     "Contact": "raphael.germann[at]unine.ch",
-    "sport": "Tennis",
-    "link": "http://www10.unine.ch/sun/discipline/tennis/",
-    "dates": [
+    "Sport": "Tennis",
+    "Link": "http://www10.unine.ch/sun/discipline/tennis/",
+    "Dates": [
         {
             "from": "2017-09-25T14:00:00+02:00",
             "to": "2017-09-25T14:00:00+02:00"
@@ -3112,27 +3140,28 @@
             "to": "2017-12-22T12:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 1",
-        "Code": "MOCK1"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 2",
+        "Code": "MOCK2"
     }
 },
 {
     "Description": "Le tennis de table est un sport tr\u00e8s complet qui allie technique, physique et tactique. Il permet une grande vari\u00e9t\u00e9 de syst\u00e8mes de jeu avec les jeux d\u2019attaque, de contre-initiative et les jeux de d\u00e9fense.",
-    "Enseignant-e": "Yoan Rebetez",
+    "Instructor": "Yoan Rebetez",
     "Date": "du 25 septembre au 18 d\u00e9cembre",
-    "Horaire": "Lundi : 19h30 \u2013 21h",
-    "Lieu": "Mail IV, salle de judo / no. 6",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Lundi : 19h30 \u2013 21h",
+    "Place": "Mail IV, salle de judo / no. 6",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "yoan.rebetez[at]unine.ch",
-    "sport": "Tennis de table",
-    "link": "http://www10.unine.ch/sun/discipline/tennis-de-table/",
-    "dates": [
+    "Sport": "Tennis de table",
+    "Link": "http://www10.unine.ch/sun/discipline/tennis-de-table/",
+    "Dates": [
         {
             "from": "2017-09-25T21:00:00+02:00",
             "to": "2017-09-25T21:00:00+02:00"
@@ -3186,27 +3215,28 @@
             "to": "2017-12-18T19:30:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 1",
-        "Code": "MOCK1"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 3",
+        "Code": "MOCK3"
     }
 },
 {
     "Description": "",
-    "Enseignant-e": "Florent Cosandey Benjamin Graf",
+    "Instructor": "Florent Cosandey Benjamin Graf",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Lundi : 12h00 \u2013 13h30",
-    "Lieu": "Salle de la Maladi\u00e8re M3",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Lundi : 12h00 \u2013 13h30",
+    "Place": "Salle de la Maladi\u00e8re M3",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "benjamin.graf[at]unine.ch florent.cosandey[at]erz.be.ch t\u00e9l. 079 733 49 14",
-    "sport": "Unihockey",
-    "link": "http://www10.unine.ch/sun/discipline/unihockey/",
-    "dates": [
+    "Sport": "Unihockey",
+    "Link": "http://www10.unine.ch/sun/discipline/unihockey/",
+    "Dates": [
         {
             "from": "2017-09-25T13:30:00+02:00",
             "to": "2017-09-25T13:30:00+02:00"
@@ -3260,27 +3290,28 @@
             "to": "2017-12-18T12:00:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
+    "Continuous": false,
+    "Category": {
         "Name": "Mock Category 2",
         "Code": "MOCK2"
     }
 },
 {
     "Description": "Cours payant / sur inscription. ONLINE*iVoile d\u00e9riveurs (Sunfish).",
-    "Enseignant-e": "Nicolas Droz",
+    "Instructor": "Nicolas Droz",
     "Date": "du 8 mai au 19 juin 2017 ",
-    "Horaire": "Lundi : 18h-20h",
-    "Lieu": "Port de Saint-Blaise / no. 4",
-    "Prix": " CHF 40.\u2013  ",
-    "Mat\u00e9riel": " Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Lundi : 18h-20h",
+    "Place": "Port de Saint-Blaise / no. 4",
+    "Price": " CHF 40.\u2013  ",
+    "Material": " Mat\u00e9riel \u00e0 disposition:",
     "Contact": "nic[at]windsup.ch",
-    "sport": "Voile d\u00e9riveurs (Sunfish)",
-    "link": "http://www10.unine.ch/sun/discipline/voile-deriveurs-sunfish/",
-    "dates": [
+    "Sport": "Voile d\u00e9riveurs (Sunfish)",
+    "Link": "http://www10.unine.ch/sun/discipline/voile-deriveurs-sunfish/",
+    "Dates": [
         {
             "from": "2017-05-08T20:00:00+02:00",
             "to": "2017-05-08T20:00:00+02:00"
@@ -3310,27 +3341,28 @@
             "to": "2017-06-19T20:00:00+02:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 2",
-        "Code": "MOCK2"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 1",
+        "Code": "MOCK1"
     }
 },
 {
     "Description": " Le volleyball \u00e0 Neuch\u00e2tel est propos\u00e9 aux joueurs de tous niveaux plusieurs fois par semaine. Le cours d\u00e9butera avec un petit entra\u00eenement technique avec le but d\u2019am\u00e9liorer vos capacit\u00e9s fondamentales, et sera suivi du jeu libre avec des matchs 6 contre 6. Volley libre mixte, jeu + exercices fondamentaux le mercredi.",
-    "Enseignant-e": "Simone Deluigi  (mardi, mercredi) Santiago Morales (mardi 12h)",
+    "Instructor": "Simone Deluigi  (mardi, mercredi) Santiago Morales (mardi 12h)",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Mardi : 12h00 \u2013 13h30 Mardi : 20h00 \u2013 21h45 Mercredi : 20h15 \u2013 21h45",
-    "Lieu": "Mardi : 12h00, Salle de la Maladi\u00e8re M1 et M2 / no. 9 Mardi : 20h00, Mail IV, salle 2 et 3 / no. 6 Mercredi : 20h15, Mail IV, salle 1, 2 et 3 / no. 6",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Mardi : 12h00 \u2013 13h30 Mardi : 20h00 \u2013 21h45 Mercredi : 20h15 \u2013 21h45",
+    "Place": "Mardi : 12h00, Salle de la Maladi\u00e8re M1 et M2 / no. 9 Mardi : 20h00, Mail IV, salle 2 et 3 / no. 6 Mercredi : 20h15, Mail IV, salle 1, 2 et 3 / no. 6",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "simone.deluigi[at]unine.ch",
-    "sport": "Volleyball",
-    "link": "http://www10.unine.ch/sun/discipline/volleyball/",
-    "dates": [
+    "Sport": "Volleyball",
+    "Link": "http://www10.unine.ch/sun/discipline/volleyball/",
+    "Dates": [
         {
             "from": "2017-09-19T13:30:00+02:00",
             "to": "2017-09-19T13:30:00+02:00"
@@ -3500,27 +3532,28 @@
             "to": "2017-12-20T20:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 2",
-        "Code": "MOCK2"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 1",
+        "Code": "MOCK1"
     }
 },
 {
     "Description": "Discipline d\u2019unification entre le corps et l\u2019esprit. Excellent pour am\u00e9liorer la souplesse du corps et nous aider \u00e0 g\u00e9rer le stress. Exercices de relaxation, respiration, concentration et m\u00e9ditation. Assouplissement et renforcement de la colonne vert\u00e9brale. Harmonisation de l\u2019\u00e9nergie vitale.",
-    "Enseignant-e": "James Tallon  (mercredi/jeudi) Francisca Abara Arce (lundi)",
+    "Instructor": "James Tallon  (mercredi/jeudi) Francisca Abara Arce (lundi)",
     "Date": "du 19 septembre au 22 d\u00e9cembre 2017",
-    "Horaire": "Lundi : 18h30 \u2013 19h45 (niveau moyen) \u2013 Hatha yoga Mercredi : 18h30 \u2013 20h (niveau d\u00e9butant-moyen) \u2013 Hatha yoga / Hatha flow Jeudi : 12h15 \u2013 13h30 (niveau d\u00e9butant-moyen) \u2013 Hatha yoga / Hatha flow",
-    "Lieu": "Lundi : Mail IV, salle 3 / no. 6 Mercredi et jeudi: Mail IV, salle de judo / no. 6",
-    "Prix": "Gratuit.",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition: Tapis de yoga",
+    "Times": "Lundi : 18h30 \u2013 19h45 (niveau moyen) \u2013 Hatha yoga Mercredi : 18h30 \u2013 20h (niveau d\u00e9butant-moyen) \u2013 Hatha yoga / Hatha flow Jeudi : 12h15 \u2013 13h30 (niveau d\u00e9butant-moyen) \u2013 Hatha yoga / Hatha flow",
+    "Place": "Lundi : Mail IV, salle 3 / no. 6 Mercredi et jeudi: Mail IV, salle de judo / no. 6",
+    "Price": "Gratuit.",
+    "Material": "Mat\u00e9riel \u00e0 disposition: Tapis de yoga",
     "Contact": "james.tallon[at]unine.ch t\u00e9l. 079 629 91 93",
-    "sport": "Yoga",
-    "link": "http://www10.unine.ch/sun/discipline/yoga/",
-    "dates": [
+    "Sport": "Yoga",
+    "Link": "http://www10.unine.ch/sun/discipline/yoga/",
+    "Dates": [
         {
             "from": "2017-09-25T19:45:00+02:00",
             "to": "2017-09-25T19:45:00+02:00"
@@ -3686,26 +3719,27 @@
             "to": "2017-12-21T12:15:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 1",
-        "Code": "MOCK1"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 2",
+        "Code": "MOCK2"
     }
 },
 {
     "Description": "Cocktail de danses latinos et d\u2019a\u00e9robic.",
-    "Enseignant-e": "Ada Pisino",
+    "Instructor": "Ada Pisino",
     "Date": "du 19 septembre au 22 d\u00e9cembre ",
-    "Horaire": "Lundi : 17h30-18h30 Vendredi : 17h00 \u2013 18h00",
-    "Lieu": "Lundi : Mail IV, salle 3 / no. 6 Vendredi : Mail IV, salle 1 / no. 6",
-    "Mat\u00e9riel": "Mat\u00e9riel \u00e0 disposition:",
+    "Times": "Lundi : 17h30-18h30 Vendredi : 17h00 \u2013 18h00",
+    "Place": "Lundi : Mail IV, salle 3 / no. 6 Vendredi : Mail IV, salle 1 / no. 6",
+    "Material": "Mat\u00e9riel \u00e0 disposition:",
     "Contact": "ada[at]giantstudio.ch",
-    "sport": "Zumba",
-    "link": "http://www10.unine.ch/sun/discipline/zumba/",
-    "dates": [
+    "Sport": "Zumba",
+    "Link": "http://www10.unine.ch/sun/discipline/zumba/",
+    "Dates": [
         {
             "from": "2017-09-25T18:30:00+02:00",
             "to": "2017-09-25T18:30:00+02:00"
@@ -3815,13 +3849,14 @@
             "to": "2017-12-22T17:00:00+01:00"
         }
     ],
-    "university": {
+    "University": {
         "Name": "Neuch\u00e2tel",
         "Code": "NE"
     },
-    "category": {
-        "Name": "Mock Category 3",
-        "Code": "MOCK3"
+    "Continuous": false,
+    "Category": {
+        "Name": "Mock Category 2",
+        "Code": "MOCK2"
     }
 }
 ]
