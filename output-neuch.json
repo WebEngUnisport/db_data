@@ -7,7 +7,8 @@
     "price": "30.-",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "boxe.unine[at]gmail.com",
-    "sport": "Boxe anglaise",
+    "sport": "Boxing",
+    "sportOriginal": "Boxe anglaise",
     "link": "http://www10.unine.ch/sun/discipline/boxe-anglaise/",
     "dates": [
         {
@@ -168,8 +169,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -187,6 +188,7 @@
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "papacapoeira[at]yahoo.com",
     "sport": "Capoeira",
+    "sportOriginal": "Capoeira",
     "link": "http://www10.unine.ch/sun/discipline/capoeira/",
     "dates": [
         {
@@ -247,8 +249,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -266,6 +268,7 @@
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "chris.umana25[at]gmail.com",
     "sport": "Cross-Uni",
+    "sportOriginal": "Cross-Uni",
     "link": "http://www10.unine.ch/sun/discipline/cross-training/",
     "dates": [
         {
@@ -374,8 +377,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -393,11 +396,12 @@
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "claude-alain.vuille[at]bluewin.ch",
     "sport": "Curling",
+    "sportOriginal": "Curling",
     "link": "http://www10.unine.ch/sun/discipline/curling/",
     "dates": [],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -414,7 +418,8 @@
     "price": "Gratuit.",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "isabelle-richard[at]bluewin.ch",
-    "sport": "Danse contemporaine",
+    "sport": "Contemporary Dance",
+    "sportOriginal": "Danse contemporaine",
     "link": "http://www10.unine.ch/sun/discipline/danse-contemporaine/",
     "dates": [
         {
@@ -475,8 +480,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -493,7 +498,8 @@
     "price": "Gratuit.",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "santiago.morales[at]unine.ch",
-    "sport": "Danse salsa, merengue, cumbia",
+    "sport": "Latin Dance",
+    "sportOriginal": "Danse salsa, merengue, cumbia",
     "link": "http://www10.unine.ch/sun/discipline/danse-salsa-merengue-cumbia/",
     "dates": [
         {
@@ -554,8 +560,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -572,7 +578,8 @@
     "price": "Gratuit.",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "thib.longhais[at]gmail.com",
-    "sport": "Escrime",
+    "sport": "Fencing",
+    "sportOriginal": "Escrime",
     "link": "http://www10.unine.ch/sun/discipline/escrime/",
     "dates": [
         {
@@ -689,8 +696,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -706,7 +713,8 @@
     "place": "Mail IV, Piscine / no. 6",
     "price": "Gratuit, cours du mercredi sur inscription.",
     "contact": "e.herzig[at]net2000.ch",
-    "sport": "Fitness aquatique",
+    "sport": "Aquafit",
+    "sportOriginal": "Fitness aquatique",
     "link": "http://www10.unine.ch/sun/discipline/fitness-aquatique/",
     "dates": [
         {
@@ -879,8 +887,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -897,7 +905,8 @@
     "price": "Gratuit.",
     "material": "Mat\u00e9riel \u00e0 disposition: Ballons ",
     "contact": "bruno.avolio[at]rpn.ch codrin44[at]gmail.com",
-    "sport": "Football en salle",
+    "sport": "Soccer",
+    "sportOriginal": "Football en salle",
     "link": "http://www10.unine.ch/sun/discipline/football-en-salle/",
     "dates": [
         {
@@ -1014,8 +1023,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -1032,7 +1041,8 @@
     "price": "Gratuit.",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "yves.leplattenier[at]unine.ch",
-    "sport": "Gymnastique du dos",
+    "sport": "Gymnastics",
+    "sportOriginal": "Gymnastique du dos",
     "link": "http://www10.unine.ch/sun/discipline/gymnastique-du-dos/",
     "dates": [
         {
@@ -1145,8 +1155,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -1163,7 +1173,8 @@
     "price": "Gratuit.",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "ada[at]giantstudio.ch",
-    "sport": "Hip-hop Basic",
+    "sport": "Hip-Hop",
+    "sportOriginal": "Hip-hop Basic",
     "link": "http://www10.unine.ch/sun/discipline/hip-hop/",
     "dates": [
         {
@@ -1220,8 +1231,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -1238,12 +1249,13 @@
     "price": "Gratuit.",
     "material": "Mat\u00e9riel \u00e0 disposition: Cannes et casques. Gants, coudi\u00e8res, jambi\u00e8res et cuissettes en quantit\u00e9 limit\u00e9e !",
     "contact": "rodolphe.saint-louis[at]bfs.admin.ch",
-    "sport": "Hockey sur glace",
+    "sport": "Ice Hockey",
+    "sportOriginal": "Hockey sur glace",
     "link": "http://www10.unine.ch/sun/discipline/hockey-sur-glace/",
     "dates": [],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -1260,7 +1272,8 @@
     "price": "CHF 30.\u2013 / semestre",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "yves.petremand[at]unine.ch vhaag[at]bluewin.ch",
-    "sport": "Indoor cycling",
+    "sport": "Indoor Cycling",
+    "sportOriginal": "Indoor cycling",
     "link": "http://www10.unine.ch/sun/discipline/indoor-cycling/",
     "dates": [
         {
@@ -1369,8 +1382,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -1387,7 +1400,8 @@
     "price": "Gratuit.",
     "material": "Mat\u00e9riel \u00e0 disposition: ",
     "contact": "charlotte.agustoni[at]unine.ch",
-    "sport": "Initiation au cirque",
+    "sport": "Circus",
+    "sportOriginal": "Initiation au cirque",
     "link": "http://www10.unine.ch/sun/discipline/initiation-cirque-nouveau/",
     "dates": [
         {
@@ -1448,8 +1462,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -1466,7 +1480,8 @@
     "price": "Gratuit.",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "loris.petris[at]unine.ch",
-    "sport": "Jodo",
+    "sport": "Judo",
+    "sportOriginal": "Jodo",
     "link": "http://www10.unine.ch/sun/discipline/jodo-2/",
     "dates": [
         {
@@ -1527,8 +1542,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -1545,7 +1560,8 @@
     "price": "Gratuit.",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "francopisino[at]gmail.com",
-    "sport": "Karat\u00e9",
+    "sport": "Karate",
+    "sportOriginal": "Karat\u00e9",
     "link": "http://www10.unine.ch/sun/discipline/karate/",
     "dates": [
         {
@@ -1602,8 +1618,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -1621,6 +1637,7 @@
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "loris.petris[at]unine.ch",
     "sport": "Kobudo",
+    "sportOriginal": "Kobudo",
     "link": "http://www10.unine.ch/sun/discipline/kobudo/",
     "dates": [
         {
@@ -1737,8 +1754,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -1755,7 +1772,8 @@
     "price": "Gratuit.",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "allbov[at]sunrise.ch nils.favre[at]unine.ch sarah.semeraro[at]unine.ch",
-    "sport": "Natation",
+    "sport": "Swimming",
+    "sportOriginal": "Natation",
     "link": "http://www10.unine.ch/sun/discipline/natation/",
     "dates": [
         {
@@ -1980,8 +1998,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -1998,7 +2016,8 @@
     "price": "CHF 30.\u2013",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "contact.acropolefitness[at]gmail.com",
-    "sport": "Pole fitness",
+    "sport": "Fitness",
+    "sportOriginal": "Pole fitness",
     "link": "http://www10.unine.ch/sun/discipline/pole-fitness/",
     "dates": [
         {
@@ -2107,8 +2126,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -2126,6 +2145,7 @@
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "ada[at]giantstudio.ch",
     "sport": "Pump",
+    "sportOriginal": "Pump",
     "link": "http://www10.unine.ch/sun/discipline/pump/",
     "dates": [
         {
@@ -2186,8 +2206,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -2204,7 +2224,8 @@
     "price": "Gratuit.",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "raphael.germann[at]unine.ch",
-    "sport": "Remise en forme",
+    "sport": "Fitness",
+    "sportOriginal": "Remise en forme",
     "link": "http://www10.unine.ch/sun/discipline/remise-en-forme/",
     "dates": [
         {
@@ -2265,8 +2286,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -2283,7 +2304,8 @@
     "price": "Gratuit.",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "davidgadler[at]hotmail.com",
-    "sport": "Running",
+    "sport": "Jogging",
+    "sportOriginal": "Running",
     "link": "http://www10.unine.ch/sun/discipline/running/",
     "dates": [
         {
@@ -2344,8 +2366,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -2362,7 +2384,8 @@
     "price": "CHF 40.\u2013 / semestre",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "naty.coach[at]gmail.com",
-    "sport": "S.A.F.E. (pilates)",
+    "sport": "Pilates",
+    "sportOriginal": "S.A.F.E. (pilates)",
     "link": "http://www10.unine.ch/sun/discipline/s-a-f-e-pilates/",
     "dates": [
         {
@@ -2471,8 +2494,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -2489,7 +2512,8 @@
     "price": "CHF 20.\u2013 / semestre",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "info[at]kravmaga-neuchatel.ch",
-    "sport": "Self-d\u00e9fense",
+    "sport": "Self-Defense",
+    "sportOriginal": "Self-d\u00e9fense",
     "link": "http://www10.unine.ch/sun/discipline/self-defense/",
     "dates": [
         {
@@ -2598,8 +2622,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -2616,7 +2640,8 @@
     "price": "Gratuit.",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "santiago.morales[at]unine.ch",
-    "sport": "Sophrologie cayc\u00e9dienne",
+    "sport": "Fitness",
+    "sportOriginal": "Sophrologie cayc\u00e9dienne",
     "link": "http://www10.unine.ch/sun/discipline/sophrologie-caycedienne/",
     "dates": [
         {
@@ -2677,8 +2702,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -2696,6 +2721,7 @@
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "ada[at]giantstudio.ch",
     "sport": "Step",
+    "sportOriginal": "Step",
     "link": "http://www10.unine.ch/sun/discipline/step/",
     "dates": [
         {
@@ -2752,8 +2778,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -2771,6 +2797,7 @@
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "tangoceleste1[at]gmail.com",
     "sport": "Tango",
+    "sportOriginal": "Tango",
     "link": "http://www10.unine.ch/sun/discipline/tango/",
     "dates": [
         {
@@ -2887,8 +2914,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -2906,6 +2933,7 @@
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "yann2517[at]gmail.com",
     "sport": "Tchoukball",
+    "sportOriginal": "Tchoukball",
     "link": "http://www10.unine.ch/sun/discipline/tchoukball/",
     "dates": [
         {
@@ -2962,8 +2990,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -2981,6 +3009,7 @@
     "material": "Mat\u00e9riel \u00e0 disposition: raquettes et balles. ",
     "contact": "raphael.germann[at]unine.ch",
     "sport": "Tennis",
+    "sportOriginal": "Tennis",
     "link": "http://www10.unine.ch/sun/discipline/tennis/",
     "dates": [
         {
@@ -3141,8 +3170,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -3159,7 +3188,8 @@
     "price": "Gratuit.",
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "yoan.rebetez[at]unine.ch",
-    "sport": "Tennis de table",
+    "sport": "Tennis",
+    "sportOriginal": "Tennis de table",
     "link": "http://www10.unine.ch/sun/discipline/tennis-de-table/",
     "dates": [
         {
@@ -3216,8 +3246,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -3235,6 +3265,7 @@
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "benjamin.graf[at]unine.ch florent.cosandey[at]erz.be.ch t\u00e9l. 079 733 49 14",
     "sport": "Unihockey",
+    "sportOriginal": "Unihockey",
     "link": "http://www10.unine.ch/sun/discipline/unihockey/",
     "dates": [
         {
@@ -3291,8 +3322,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -3309,7 +3340,8 @@
     "price": " CHF 40.\u2013  ",
     "material": " Mat\u00e9riel \u00e0 disposition:",
     "contact": "nic[at]windsup.ch",
-    "sport": "Voile d\u00e9riveurs (Sunfish)",
+    "sport": "Sunfish",
+    "sportOriginal": "Voile d\u00e9riveurs (Sunfish)",
     "link": "http://www10.unine.ch/sun/discipline/voile-deriveurs-sunfish/",
     "dates": [
         {
@@ -3342,8 +3374,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -3361,6 +3393,7 @@
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "simone.deluigi[at]unine.ch",
     "sport": "Volleyball",
+    "sportOriginal": "Volleyball",
     "link": "http://www10.unine.ch/sun/discipline/volleyball/",
     "dates": [
         {
@@ -3533,8 +3566,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -3552,6 +3585,7 @@
     "material": "Mat\u00e9riel \u00e0 disposition: Tapis de yoga",
     "contact": "james.tallon[at]unine.ch t\u00e9l. 079 629 91 93",
     "sport": "Yoga",
+    "sportOriginal": "Yoga",
     "link": "http://www10.unine.ch/sun/discipline/yoga/",
     "dates": [
         {
@@ -3720,8 +3754,8 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
@@ -3738,6 +3772,7 @@
     "material": "Mat\u00e9riel \u00e0 disposition:",
     "contact": "ada[at]giantstudio.ch",
     "sport": "Zumba",
+    "sportOriginal": "Zumba",
     "link": "http://www10.unine.ch/sun/discipline/zumba/",
     "dates": [
         {
@@ -3850,13 +3885,13 @@
         }
     ],
     "university": {
-        "Name": "Neuch\u00e2tel",
-        "Code": "NE"
+        "name": "Neuch\u00e2tel",
+        "code": "NE"
     },
     "continuous": false,
     "category": {
         "name": "Dancing",
         "code": "DANCE"
     }
-}
+},
 ]
