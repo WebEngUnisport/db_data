@@ -1,4 +1,5 @@
-[{
+[
+  {
     "description": "ONLINE*iCours payant / sur inscription.",
     "instructor": "Anne-Sophie Papeil",
     "date": "du 26 septembre au 21 d\u00e9cembre 2017",
@@ -3893,5 +3894,5 @@
         "name": "Dancing",
         "code": "DANCE"
     }
-},
+}
 ]
